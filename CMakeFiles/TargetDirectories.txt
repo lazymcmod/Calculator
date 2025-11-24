@@ -1,0 +1,6 @@
+D:/Calculator/CMakeFiles/Calculator.dir
+D:/Calculator/CMakeFiles/Calculator_qmlimportscan.dir
+D:/Calculator/CMakeFiles/edit_cache.dir
+D:/Calculator/CMakeFiles/rebuild_cache.dir
+D:/Calculator/CMakeFiles/Calculator_autogen_timestamp_deps.dir
+D:/Calculator/CMakeFiles/Calculator_autogen.dir

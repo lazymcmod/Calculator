@@ -1,0 +1,17 @@
+# ninja log v6
+24	128	7840696280346828	.qt/qml_imports/Calculator_build.cmake	8c29186418afd508
+24	128	7840696280346828	D:/Calculator/.qt/qml_imports/Calculator_build.cmake	8c29186418afd508
+129	957	7840696287476234	Calculator_autogen/timestamp	27c81c04ebcab66a
+129	957	7840696287476234	Calculator_autogen/mocs_compilation.cpp	27c81c04ebcab66a
+129	957	7840696287476234	D:/Calculator/Calculator_autogen/timestamp	27c81c04ebcab66a
+129	957	7840696287476234	D:/Calculator/Calculator_autogen/mocs_compilation.cpp	27c81c04ebcab66a
+969	3401	7840696288723165	CMakeFiles/Calculator.dir/main.cpp.obj	6b2a2c337b346a63
+965	3413	7840696288723165	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.obj	c3b20d166e81787c
+973	3837	7840696288836766	CMakeFiles/Calculator.dir/Calculator.cpp.obj	1990c97a08e42899
+3838	4167	7840696317521060	Calculator.exe	58fe1a4b75ca06a2
+88	359	7848224849513868	Calculator_autogen/timestamp	27c81c04ebcab66a
+88	359	7848224849513868	Calculator_autogen/mocs_compilation.cpp	27c81c04ebcab66a
+88	359	7848224849513868	D:/Calculator/Calculator_autogen/timestamp	27c81c04ebcab66a
+88	359	7848224849513868	D:/Calculator/Calculator_autogen/mocs_compilation.cpp	27c81c04ebcab66a
+360	6810	7848224852229170	CMakeFiles/Calculator.dir/Calculator.cpp.obj	1990c97a08e42899
+6810	7407	7848224916714963	Calculator.exe	58fe1a4b75ca06a2
